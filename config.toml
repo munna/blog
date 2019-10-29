@@ -1,0 +1,4 @@
+baseURL = "http://apexpath.com/"
+languageCode = "en-us"
+title = "ApexPath"
+theme = "ananke"
